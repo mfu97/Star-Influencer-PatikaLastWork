@@ -20,3 +20,5 @@ The character in our game aims to become an influencer by passing through decisi
  - There is no losing rule
 >Can depth be added?
  - No
+
+https://user-images.githubusercontent.com/78389710/153808195-c803aeb0-7931-41cb-96d8-2fa1794e26bb.mp4
