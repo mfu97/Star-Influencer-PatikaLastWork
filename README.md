@@ -28,4 +28,4 @@ The character in our game aims to become an influencer by passing through decisi
 >How do I control?
   - Swipe control
 >Where am I ? 
-  -On the platform 
+  - On the platform 
