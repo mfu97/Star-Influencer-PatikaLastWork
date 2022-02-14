@@ -21,7 +21,11 @@ The character in our game aims to become an influencer by passing through decisi
 >Can depth be added?
  -No
 
->Architecture Steps
-  - Start Screen (start)
-  - Play Screen (gameplay)
-  - End Game Screen (complete)
+>What am I controlling?
+  - Female Character
+>What am I doing?
+  - I'm moving forward and going through the gates of decision
+>How do I control?
+  - Swipe control
+>Where am I ? 
+  -On the platform 
