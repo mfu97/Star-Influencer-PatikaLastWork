@@ -21,3 +21,7 @@ The character in our game aims to become an influencer by passing through decisi
 >Can depth be added?
  -No
 
+>Architecture Steps
+  - Start Screen (start)
+  - Play Screen (gameplay)
+  - End Game Screen (complete)
