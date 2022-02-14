@@ -20,12 +20,3 @@ The character in our game aims to become an influencer by passing through decisi
  - There is no losing rule
 >Can depth be added?
  - No
-
->What am I controlling?
-  - Female Character
->What am I doing?
-  - I'm moving forward and going through the gates of decision
->How do I control?
-  - Swipe control
->Where am I ? 
-  - On the platform 
