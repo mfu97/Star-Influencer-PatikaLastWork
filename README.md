@@ -21,4 +21,4 @@ The character in our game aims to become an influencer by passing through decisi
 >Can depth be added?
  - No
 
-https://user-images.githubusercontent.com/78389710/153808195-c803aeb0-7931-41cb-96d8-2fa1794e26bb.mp4
+https://user-images.githubusercontent.com/78389710/153808389-c2c836f8-34ac-40da-9041-fee2ec2c6e21.mp4
